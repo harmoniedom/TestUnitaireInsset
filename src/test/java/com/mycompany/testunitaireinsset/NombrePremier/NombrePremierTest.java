@@ -81,6 +81,7 @@ public class NombrePremierTest {
         //given
         int n = 0;
         NombrePremier instance = new NombrePremier();
+        
         boolean expResult = false;
 
         //when
